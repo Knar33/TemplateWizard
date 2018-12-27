@@ -18,4 +18,8 @@
       <ProjectItem ReplaceParameters="true" OpenInEditor="true">Class1.cs</ProjectItem>
     </Project>
   </TemplateContent>
+  <WizardExtension>  
+      <Assembly>MyProjectWizard, Version=1.0.0.0, Culture=Neutral, PublicKeyToken=dc138a490d9dd9b6</Assembly>  
+      <FullClassName>MyProjectWizard.WizardImplementation</FullClassName>  
+  </WizardExtension>
 </VSTemplate>

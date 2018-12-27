@@ -1,5 +1,4 @@
 C:\Users\USER_0137\Documents\GitHub\TemplateWizard\MyProjectTemplate\bin\Debug\ProjectTemplates\CSharp\1033\MyProjectTemplate.zip
-C:\Users\USER_0137\Documents\GitHub\TemplateWizard\MyProjectTemplate\obj\Debug\MyProjectTemplate.csprojAssemblyReference.cache
 C:\Users\USER_0137\Documents\GitHub\TemplateWizard\MyProjectTemplate\obj\Debug\MyProjectTemplate.csproj.CoreCompileInputs.cache
 C:\Users\USER_0137\Documents\GitHub\TemplateWizard\MyProjectTemplate\obj\Debug\CSharp\1033\MyProjectTemplate.zip
 C:\Users\USER_0137\Documents\GitHub\TemplateWizard\MyProjectTemplate\obj\Debug\MyProjectTemplate.dll
